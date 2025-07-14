@@ -41,6 +41,12 @@ Make sure you have Python installed. Then:
 ``` bash
 pip install -r requirements.txt
 
+Set up a virtual environment :
+
+``` bash
+python -m venv venv
+venv\Scripts\activate  
+
 ## ▶️ How to Run
 
   ```bash
