@@ -37,12 +37,17 @@ Make sure you have Python installed. Then:
 
 ## ▶️ How to Run
 
-python assistant.py
+  ```bash
+  python assistant.py
 
 Then start talking! Example commands:
 
 “Hello”
+
 “What time is it?”
+
 “Tell me a joke”
+
 “Search Python programming on Google”
+
 “What’s today’s date?”
