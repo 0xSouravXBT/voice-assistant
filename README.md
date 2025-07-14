@@ -35,12 +35,18 @@ Make sure you have Python installed. Then:
    git clone https://github.com/0xSouravXBT/voice-assistant.git
    cd voice-assistant
 
+   
+2. **Install required packages**:
+
+``` bash
+pip install -r requirements.txt
+
 ## ▶️ How to Run
 
   ```bash
   python assistant.py
 
-Then start talking! Example commands:
+## Then start talking! Example commands:
 
 “Hello”
 
